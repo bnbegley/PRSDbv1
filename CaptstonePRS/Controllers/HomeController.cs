@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using CaptstonePRS.Models;
 
-namespace CaptstonePRS.Controllers
+namespace CaptstonePRS.Models
 {
     public class HomeController : Controller
     {
